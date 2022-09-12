@@ -1,0 +1,7 @@
+{
+  "name": "Angular_ADS_ProjetoGestao",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
